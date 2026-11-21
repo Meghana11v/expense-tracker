@@ -92,12 +92,12 @@ Saved!
 
 ## Roadmap
 
-- [ ] Case-insensitive and partial-match search
-- [ ] Proper date validation using `datetime`
-- [ ] Support decimal amounts (currently whole numbers only)
-- [ ] Move storage from JSON to SQLite
-- [ ] Add unit tests
-- [ ] Simple GUI or CLI framework
+- Case-insensitive and partial-match search
+- Proper date validation using `datetime`
+- Support decimal amounts (currently whole numbers only)
+- Move storage from JSON to SQLite
+- Add unit tests
+- Simple GUI or CLI framework
 
 ## Author
 
