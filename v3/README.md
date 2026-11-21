@@ -45,7 +45,7 @@ throughout.
 
 ## How to run
 ```bash
-python expenseversion3.py
+python expensetrackerv3.py
 ```
 Data is saved automatically to `expenses.json` in the same folder, and reloaded automatically the
 next time the program runs.

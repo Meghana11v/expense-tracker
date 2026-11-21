@@ -22,7 +22,7 @@ fundamentals: control flow, dictionaries, lists, and list comprehensions.
 
 ## How to run
 ```bash
-python expensetracker.py
+python expensetrackerv1.py
 ```
 Follow the on-screen menu (1-8) to interact with the tracker. Note: all data is stored in memory
 and is lost when the program exits — persistent storage (file/database) is planned for a future version.

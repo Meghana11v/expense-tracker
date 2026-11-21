@@ -28,7 +28,7 @@ now organized into functions instead of inline logic.
 
 ## How to run
 ```bash
-python expenseversion2.py
+python expensetrackerv2.py
 ```
 Follow the on-screen menu (1-8) to interact with the tracker. Data is stored in memory only
 and is lost when the program exits.
